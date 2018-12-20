@@ -1,5 +1,7 @@
 # 爱医 Android和iOS支持的html标签
 
+由于项目需求原因，公司需要Android和iOS都支持的html解析渲染。本人基于网上两位zzhoujay和Cocoanetics大神的轮子，自己经过测试和完善整出的一个仓库。
+
 Android使用的是 github上 zzhoujay/RichText（2.6k stars）
 链接地址：https://github.com/zzhoujay/RichText
 

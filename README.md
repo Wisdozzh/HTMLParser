@@ -25,7 +25,7 @@ style里面支持的属性参照
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/br.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/br.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/br.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/br.png) 
 
 - p标签 支持style（支持CSS属性：color、font-size、text-align、background-color、text-decoration、text-indent）
 ```
@@ -34,7 +34,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/p.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/p.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/p.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/p.png) 
 
 - ul标签 支持style(由于Android不支持 ol iOS支持 所以就没有写)
 - li标签 支持style（支持CSS属性：color、font-size、text-align、background-color、text-decoration）
@@ -45,7 +45,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/ul_ol_li.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/ul_ol_li.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/ul_ol_li.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/ul_ol_li.png) 
 
 - div标签 支持style（支持CSS属性：color、font-size、text-align、background-color）
 
@@ -55,7 +55,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/div.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/div.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/div.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/div.png) 
 
 - span标签 支持style(color、background、text-decoration、font-size)
 ```
@@ -64,7 +64,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/span.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/span.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/span.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/span.png) 
 
 - strong标签 支持style(color、background、text-decoration、font-size)
 ```
@@ -73,7 +73,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/strong.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/strong.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/strong.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/strong.png) 
 
 - b标签 支持style(color、background、text-decoration、font-size)
 ```
@@ -82,7 +82,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/b.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/b.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/b.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/b.png) 
 
 - i标签 支持style(color、background、text-decoration、font-size)
 ```
@@ -91,7 +91,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/i.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/i.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/i.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/i.png) 
 
 - small标签 支持style(color、background、text-decoration、font-size)
 ```
@@ -100,7 +100,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/small.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/small.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/small.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/small.png) 
 
 - font标签 支持(color、face)(**HTML5 不支持 <font> 标签。请用 CSS 代替。在 HTML 4.01 中，<font> 元素已废弃**)
 ```
@@ -109,7 +109,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/font.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/font.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/font.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/font.png) 
 
 - blockquote标签 支持style（text-align、text-indent）
 ```
@@ -118,7 +118,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/blockquote.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/blockquote.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/blockquote.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/blockquote.png) 
 
 - a标签 支持style(background、text-decoration、font-size)
 ```
@@ -127,7 +127,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/a.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/a.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/a.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/a.png) 
 
 - u标签
 ```
@@ -136,7 +136,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/u.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/u.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/u.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/u.png) 
 
 - del标签
 ```
@@ -145,7 +145,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/del.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/del.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/del.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/del.png) 
 
 - s标签
 ```
@@ -154,7 +154,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/s.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/s.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/s.png) 
 
 - strike标签(**HTML strike 标签 - HTML5 不支持**)
 ```
@@ -163,7 +163,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/strike.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/strike.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/strike.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/strike.png) 
 
 - sup标签
 ```
@@ -172,7 +172,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/sup.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/sup.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/sup.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/sup.png) 
 
 - sub标签
 ```
@@ -181,7 +181,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/sub.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/sub.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/sub.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/sub.png) 
 
 - h1-h6标签 支持style（text-align、text-indent）
 ```
@@ -190,7 +190,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/h1_h6.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/h1_h6.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/h1_h6.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/h1_h6.png) 
 
 - img标签 支持width height
 ```
@@ -199,7 +199,7 @@ Android | iOS
 
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/img.jpg)  | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/img.png) 
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/img.jpg)  | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/img.png) 
 
 - code标签
 - 整体的例子1
@@ -217,7 +217,7 @@ Android | iOS
 ```
 Android | iOS
 ---|---
-![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/Android/demo1.jpg) | ![image](https://github.com/Wisdozzh/markdown-images/blob/master/Html%20parser/iOS/demo1.png)
+![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/Android/demo1.jpg) | ![image](https://github.com/Wisdozzh/HTMLParser/blob/master/Html%20parser/iOS/demo1.png)
 
 
 
